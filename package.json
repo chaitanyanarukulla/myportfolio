@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/chaitanyanarukulla/myportfolio#readme",
   "dependencies": {
+    "dotenv": "^7.0.0",
     "node": "^11.14.0"
   }
 }
