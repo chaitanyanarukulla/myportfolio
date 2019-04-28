@@ -1,0 +1,23 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "Time Estimate For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaitanyanarukulla/myportfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaitanyanarukulla/myportfolio/issues"
+  },
+  "homepage": "https://github.com/chaitanyanarukulla/myportfolio#readme",
+  "dependencies": {
+    "node": "^11.14.0"
+  }
+}
